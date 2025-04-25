@@ -1,4 +1,4 @@
-Procalc-cpp
+# Procalc-Cpp
 Procalc-Cpp is an advanced calculator built in C++ with the following features:
 - Arithmetic operations: Addition, subtraction, multiplication, division
 - Power calculation (a^b)
